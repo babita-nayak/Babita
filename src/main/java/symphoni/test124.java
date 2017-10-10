@@ -6,7 +6,7 @@ public class test124 {
 	{
 		
 		String name="abd";
-		int age=90;
+		int age=100;
 		
 		System.out.println("Name : "+name+" & age: "+age+"");
 		
